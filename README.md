@@ -1,1 +1,1 @@
-# yelpChallenge
+# Yelp Challenge Dataset
